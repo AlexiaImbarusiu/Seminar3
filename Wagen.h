@@ -1,3 +1,4 @@
+#pragma once
 //
 // Created by holom on 02.04.2020.
 //
